@@ -15,4 +15,4 @@ in Matlab. This will executes all files, generate the plots and print the result
 
 ## Reference
 
-[Donsimoni, Jean Roch, Glawion, René, Plachter, Bodo and Wälde, Klaus (2020), "Projecting the Spread of COVID19 for Germany", CESifo Working Paper.](https://www.cesifo.org/en/publikationen/2020/working-paper/projecting-spread-covid19-germany)
+[Donsimoni, Jean Roch, Glawion, René, Plachter, Bodo and Wälde, Klaus (2020), "Projecting the Spread of COVID19 for Germany", forthcoming German Economic Review](https://www.macro.economics.uni-mainz.de/files/2020/04/Donsimoni-Glawion-Plachter-Waelde-2020-projecting-COVID-19-forthcoming-GER.pdf)

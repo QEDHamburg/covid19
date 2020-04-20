@@ -12,6 +12,9 @@ go.m
 
 in Matlab. This will executes all files, generate the plots and print the results into the console.
 
+## Contact
+
+rene.glawion@uni-hamburg.de
 
 ## Reference
 

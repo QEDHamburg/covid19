@@ -15,4 +15,4 @@ which executes all files, generates the plots and prints the results into the co
 
 ## Reference
 
-[Donsimoni, Jean Roch, Glawion, René, Plachter, Bodo and Wälde, Klaus (2020), "Projecting the Spread of COVID19 for Germany", CESifo Working Paper](https://www.cesifo.org/en/publikationen/2020/working-paper/projecting-spread-covid19-germany)
+[Donsimoni, Jean Roch, Glawion, René, Plachter, Bodo and Wälde, Klaus (2020), "Projecting the Spread of COVID19 for Germany", CESifo Working Paper.](https://www.cesifo.org/en/publikationen/2020/working-paper/projecting-spread-covid19-germany)

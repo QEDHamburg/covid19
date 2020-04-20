@@ -10,7 +10,7 @@ These are the replication files. Clone all files and run the file
 run.m
 ```
 
-which executes all files, generates the plots and prints the results into the console.
+in Matlab. This will executes all files, generate the plots and print the results into the console.
 
 
 ## Reference

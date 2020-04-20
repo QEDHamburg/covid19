@@ -7,7 +7,7 @@ We model the evolution of the number of individuals that are reported to be sick
 These are the replication files. Clone all files and run the file 
 
 ```
-run.m
+go.m
 ```
 
 in Matlab. This will executes all files, generate the plots and print the results into the console.
